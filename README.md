@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello there! I'm [Shoaib Ali], a passionate mobile development enthusiast with a keen interest in crafting innovative and user-friendly applications for both Android and iOS platforms.
+Hello there! I'm Shoaib Ali, a passionate mobile development enthusiast with a keen interest in crafting innovative and user-friendly applications for both Android and iOS platforms.
 
 ## 🚀 What I Do
 
@@ -14,18 +14,15 @@ Hello there! I'm [Shoaib Ali], a passionate mobile development enthusiast with a
 
 Here are some of my notable projects that showcase my skills:
 
-1. [Project Name 1](link-to-repository): A brief description of the project and its significance.
+1. ToDo App Jetpack Compose(https://github.com/Kenway-web/ToDoApp_Compose_MVVM): ToDoApp build on Jetpack compose in MVVM architecture with best practices with functionalities like sort search delete and etc .
 
-2. [Project Name 2](link-to-repository): Another exciting project, highlighting your achievements and contributions.
+2. Movie App Jetpack Compose(https://github.com/Kenway-web/Movie-App-with-Jetpack-Compose.): Another exciting project, highlighting your achievements and contributions.
 
 ## 📫 Let's Connect!
 
 I'm always open to collaboration and networking. Feel free to reach out to me through the following channels:
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 📷 **Instagram:** [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle)
-- 🌐 **Personal Website/Blog:** [YourWebsite.com](https://www.yourwebsite.com)
+- 📧 **Email:**  shoaibaliforever@outlook.com(shoaibaliforever@outlook.com)
 
 ## 🤝 Let's Build Something Amazing Together!
 
