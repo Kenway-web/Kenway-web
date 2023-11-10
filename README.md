@@ -14,9 +14,9 @@ Hello there! I'm Shoaib Ali, a passionate mobile development enthusiast with a k
 
 Here are some of my notable projects that showcase my skills:
 
-1. ToDo App Jetpack Compose(https://github.com/Kenway-web/ToDoApp_Compose_MVVM): ToDoApp build on Jetpack compose in MVVM architecture with best practices with functionalities like sort search delete and etc .
+1. [ToDo App Jetpack Compose](https://github.com/Kenway-web/ToDoApp_Compose_MVVM): ToDoApp build on Jetpack compose in MVVM architecture with best practices with functionalities like sort search delete and etc .
 
-2. Movie App Jetpack Compose(https://github.com/Kenway-web/Movie-App-with-Jetpack-Compose.): Another exciting project, highlighting your achievements and contributions.
+2. [Movie App Jetpack Compose](https://github.com/Kenway-web/Movie-App-with-Jetpack-Compose.): Another exciting project, highlighting your achievements and contributions.
 
 ## 📫 Let's Connect!
 
