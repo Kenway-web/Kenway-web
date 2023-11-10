@@ -22,7 +22,7 @@ Here are some of my notable projects that showcase my skills:
 
 I'm always open to collaboration and networking. Feel free to reach out to me through the following channels:
 
-- 📧 **Email:**  shoaibaliforever@outlook.com(shoaibaliforever@outlook.com)
+- 📧 **Email:**  [shoaibaliforever@outlook.com](shoaibaliforever@outlook.com)
 
 ## 🤝 Let's Build Something Amazing Together!
 
