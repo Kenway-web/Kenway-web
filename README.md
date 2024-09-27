@@ -16,17 +16,16 @@ Here are some of my notable projects that showcase my skills:
 
 1. [ToDo App Jetpack Compose](https://github.com/Kenway-web/ToDoApp_Compose_MVVM): ToDoApp build on Jetpack compose in MVVM architecture with best practices with functionalities like sort search delete and etc .
 
-2. [News App Jetpack Compos](https://github.com/Kenway-web/NewsApp-Jetpack-Compose): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
+2. [News App Jetpack Compos](https://github.com/Kenway-web/NewsApp-Jetpack-Compose): News app, A beautifully designed news app that performs networking calls using Retrofit and OkHttp. It features different categories and dynamic elements like a bottom sheet for an enhanced user experience.
 
-3.  [Patient Tracker App](https://github.com/Kenway-web/Patient_List): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
+3. [Patient Tracker App](https://github.com/Kenway-web/Patient_List): Patient tarcker can use by medical staffs to keep the record of patients, build with best design  and practices.
 
-4.    [Study Tracker App](https://github.com/Kenway-web/StudyPlanner/blob/main/README.md): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
-
+4. [Study Tracker App](https://github.com/Kenway-web/StudyPlanner/blob/main/README.md): Study tracker app tarcking study sessions with time tracker inbuild build with  materila 3design, MVVM and best practices with best ui design.
 ## 📫 Let's Connect!
 
 I'm always open to collaboration and networking. Feel free to reach out to me through the following channels:
 
-- 📧 **Email:**  [shoaibaliforever@outlook.com](shoaibaliforever@outlook.com)
+- 📧 **Email:**  [shoaibali26021999@gmail.com](shoaibali26021999@gmail.com)
 
 ## 🤝 Let's Build Something Amazing Together!
 
