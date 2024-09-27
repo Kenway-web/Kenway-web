@@ -16,7 +16,11 @@ Here are some of my notable projects that showcase my skills:
 
 1. [ToDo App Jetpack Compose](https://github.com/Kenway-web/ToDoApp_Compose_MVVM): ToDoApp build on Jetpack compose in MVVM architecture with best practices with functionalities like sort search delete and etc .
 
-2. [News App Jetpack Compose](https://github.com/Kenway-web/NewsApp-Jetpack-Compose): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
+2. [News App Jetpack Compos](https://github.com/Kenway-web/NewsApp-Jetpack-Compose): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
+
+3.  [Patient Tracker App](https://github.com/Kenway-web/Patient_List): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
+
+4.    [Study Tracker App](https://github.com/Kenway-web/StudyPlanner/blob/main/README.md): Another exciting project, highlighting  Compose MVVM clean architecture with Material 3 design.
 
 ## 📫 Let's Connect!
 
